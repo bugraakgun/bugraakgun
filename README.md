@@ -36,7 +36,7 @@ Java & javascript eğitimleri alıyorum.Kariyerim boyunca gelişimimi durdurmama
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugraakgun&show_icons=true)
 
 
-### ::pray: Beni Takip Edin : 
+### :pray: Beni Takip Edin : 
 ------------------
   <a href="https://www.linkedin.com/in/mbugra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
